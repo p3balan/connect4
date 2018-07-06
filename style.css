@@ -1,0 +1,29 @@
+td {
+    border: 1px solid linear-gradient(to right, yellow, red);
+
+    background: white;
+
+
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+  }
+  
+  td:hover {
+    background: yellow;
+  }
+  
+  table {
+    border: 5px solid linear-gradient(to left, red , yellow);
+    background: linear-gradient(to right, red , yellow);
+
+  }
+
+  h1 {
+      color: red;
+      text-decoration: underline;
+  }
+  p {
+    color: red
+    
+  }
